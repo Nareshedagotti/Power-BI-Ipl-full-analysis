@@ -27,9 +27,9 @@ This repository contains a Power BI dashboard for comprehensive analysis of the 
 ---
 
 ## Repository Contents  
-- `IPL Analysis.pbix`: The Power BI file for the dashboard.  
-- Screenshots: Visuals of the dashboards to give a preview.  
-- `README.md`: This file with instructions and details.  
+- `IPL Analysis.pbix`: The Power BI file for the dashboard.   
+- `README.md`: This file with instructions and details.
+-  `ipl_matches_2008_2022.csv` and `ipl_ball_by_ball_2008_2022.csv`:This csv datasets  are used for this dashboards
 
 ---
 
